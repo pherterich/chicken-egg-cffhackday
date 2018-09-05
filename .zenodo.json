@@ -1,7 +1,7 @@
 	{
     "publication_date": "2018-09-05",
     "title": "chicken-egg",
-    "version": "0.1",
+    "version": "0.2",
 	  "creators": [
 	    {
 	      "affiliation": "Univ of chicken",
@@ -25,7 +25,7 @@
 	      "affiliation": "Easter egg university",
 	      "name": "Robin Dasler",
 	      "orcid": "0000-0002-4695-7874"
-	    },
+	    }
 	  ],
 	  "keywords": [
 	    "chicken-egg",
