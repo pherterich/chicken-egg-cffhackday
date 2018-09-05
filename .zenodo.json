@@ -1,0 +1,48 @@
+	{
+    "publication_date": "2018-09-05",
+    "title": "chicken-egg",
+    "version": "0.1",
+	  "creators": [
+	    {
+	      "affiliation": "Univ of chicken",
+	      "name": "Patricia Herterich",
+	      "orcid": "0000-0002-4542-9906"
+	    },
+	    {
+	      "affiliation": "Egg univ",
+	      "name": "David Perez-Suarez",
+	      "orcid": "0000-0003-0784-6909"
+	    },
+	    {
+	      "affiliation": "University of the chicken-egg",
+	      "name": "Toby Hodges"
+	    },
+      {
+	      "affiliation": "wy prifysgol",
+	      "name": "Cerys Lewis"
+      },
+      {
+	      "affiliation": "Easter egg university",
+	      "name": "Robin Dasler",
+	      "orcid": "0000-0002-4695-7874"
+	    },
+	  ],
+	  "keywords": [
+	    "chicken-egg",
+	    "citation",
+	    "pipeline"
+	  ],
+    "meeting": {
+       "acronym": "RSE18",
+       "dates": "3-5 Sept 2018",
+       "place": "University of Birmingham",
+       "session": "CFF-hack-day",
+       "title": "Chicken-egg problem",
+       "url": "https://citation-file-format.github.io/events/rse18-hack-day/"
+    },
+	  "license": "Apache-2.0",
+	  "upload_type": "software",
+    "description": "This repository contains files that tries to break the egg-chicken problem",
+    "access_right": "open",
+    "doi": "10.5281/zenodo.1409534"
+	}
