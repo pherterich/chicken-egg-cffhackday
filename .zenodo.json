@@ -36,5 +36,5 @@
 	  "upload_type": "software",
     "description": "This repository contains files that tries to break the egg-chicken problem",
     "access_right": "open",
-	'prereserve_doi': {'doi': '10.5281/zenodo.1409534', 'recid': 1409534}
+	'prereserve_doi': {'doi': '10.5281/zenodo.1409534', 'recid': '1409534'}
 	}
