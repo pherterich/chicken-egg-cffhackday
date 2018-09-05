@@ -32,6 +32,7 @@
 	    "citation",
 	    "pipeline"
 	  ],
+	  "recid": "1409534",
 	  "license": "Apache-2.0",
 	  "upload_type": "software",
     "description": "This repository contains files that tries to break the egg-chicken problem",
