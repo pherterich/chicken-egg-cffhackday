@@ -1,7 +1,7 @@
 	{
     "publication_date": "2018-09-05",
     "title": "chicken-egg",
-    "version": "0.6",
+    "version": "0.7.3",
 	  "creators": [
 	    {
 	      "affiliation": "Univ of chicken",
@@ -36,5 +36,6 @@
 	  "upload_type": "software",
     "description": "This repository contains files that tries to break the egg-chicken problem",
     "access_right": "open",
-    "doi": "10.5281/zenodo.1409534",
+	  "prereserve_doi": {"doi": "10.5281/zenodo.1409534", "recid": "1409534"},
+    "doi": "10.5281/zenodo.1409534"
 	}
