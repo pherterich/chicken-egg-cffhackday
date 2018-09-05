@@ -32,14 +32,6 @@
 	    "citation",
 	    "pipeline"
 	  ],
-    "meeting": {
-       "acronym": "RSE18",
-       "dates": "3-5 Sept 2018",
-       "place": "University of Birmingham",
-       "session": "CFF-hack-day",
-       "title": "Chicken-egg problem",
-       "url": "https://citation-file-format.github.io/events/rse18-hack-day/"
-    },
 	  "license": "Apache-2.0",
 	  "upload_type": "software",
     "description": "This repository contains files that tries to break the egg-chicken problem",
